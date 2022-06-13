@@ -6,7 +6,7 @@ Will definitely be spamming a lot of stuffs in my profile.
 
 I'm still a student, so if you have any helpful advice that you can give, I would happily take it.
 
-##  Concepts that I need to study more:
+##  Concepts that I need to familiarize myself
 
 :scroll:  Loops
 
