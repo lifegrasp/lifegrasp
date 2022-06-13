@@ -1,18 +1,23 @@
-### Hi there 👋
+## Hi~! I'm still a student who's aspiring to become a Software Engineer ~~~
 
-Trying to get used to GitHub. Aye~~!
+Messing around with GitHub and trying to know its ins and outs.
 
-<!--
-**Lifegrasp/Lifegrasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Will definitely be spamming a lot of stuffs in my profile.
 
-Here are some ideas to get you started:
+I'm still a student, so if you have any helpful advice that you can give, I would happily take it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Concepts that I need to study more:
+
+:scroll:  Loops
+
+:scroll:  Recursions
+
+:scroll:  JavaScript Arrow Functions
+
+:scroll:  JavaScript Rest Operator and Spread Operator
+
+:scroll:  Destructuring in JavaScript
+
+:scroll:  Learn about Design Patterns
+
+[Hoshino Ai's Peak.jpg](https://github.com/Lifegrasp/Lifegrasp/blob/c421fb07ab29d6014761966c499b0f8946249f73/Hoshino%20Ai's%20Peak.jpg)
